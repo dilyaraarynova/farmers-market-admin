@@ -9,9 +9,6 @@ A frontend-only web application built with React, designed to manage user inform
   <img src="./assets/screenshots/dashboard.png" alt="Dashboard Page" width="300" style="margin: 10px;" />
 </p>
 
-## Tech Stack
-- Frontend: React
-
 ## To run locally:
 
 1. Clone the repository:
